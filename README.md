@@ -56,10 +56,9 @@ jupyter notebook LLM_Fine_Tuning_Tutorial.ipynb
 - [PyTorch](https://pytorch.org/)  
 - [Transformers](https://huggingface.co/docs/transformers/)  
 - [Datasets](https://huggingface.co/docs/datasets/)  
-- Jupyter Notebook  
-
-(see `requirements.txt` for full list)
-
+- Jupyter Notebook
+- pip install -U transformers datasets accelerate peft
+- pip install transformers --upgrade
 ---
 
 ## 📊 Results
