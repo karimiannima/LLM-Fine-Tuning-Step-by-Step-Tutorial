@@ -1,0 +1,9 @@
+# Training outputs written by the notebooks
+ft_*/
+align_*/
+Alignment-and-RLHF/align_*/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+venv/
